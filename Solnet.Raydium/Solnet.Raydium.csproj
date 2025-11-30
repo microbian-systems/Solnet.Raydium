@@ -3,7 +3,7 @@
     <Description>
           Solnet.Raydium implements functionality to integrate Raydium project into .Net applications.
         </Description>
-    <TargetFramework>net9.0</TargetFramework>
+    <TargetFramework>net10.0</TargetFramework>
     <IsPackable>false</IsPackable>
     <RootNamespace>Solnet.Raydium</RootNamespace>
   </PropertyGroup>
